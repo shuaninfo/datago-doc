@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/sqldevdoc/',
+    base: '/datagodoc/',
     head:[
         ['link',{rel:'icon', href:'/img/favicon.ico'}]
     ],
