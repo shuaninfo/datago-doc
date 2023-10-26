@@ -2,7 +2,7 @@
 
 
 
-![data-go](img/data-go.png)
+![data-go](./img/data-go.png)
 
 
 
