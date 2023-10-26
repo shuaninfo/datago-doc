@@ -1,13 +1,13 @@
 module.exports = {
     base: '/datagodoc/',
     head:[
-        ['link',{rel:'icon', href:'/img/favicon.ico'}]
+        ['link',{rel:'icon', href:'./img/favicon.ico'}]
     ],
     locales:{
         '/':{
             lang:'zh-CN',
-            title: 'SQLDEV 文档',
-            description: 'SQLDEV 文档'
+            title: 'DATAGO 文档',
+            description: 'DATAGO 文档'
         }
     },
     themeConfig:{
@@ -30,6 +30,7 @@ module.exports = {
                 ],
                 sidebar:[
                     '/',
+                    '/QuickStart',
                     {
                         title:'开始',
                         children:[
