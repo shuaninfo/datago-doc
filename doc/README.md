@@ -2,7 +2,7 @@
 
 
 
-<img src="./img/data-go.png" alt="data-go" style="zoom:30%;" />
+<img src="./img/data-go.png" alt="data-go" style="zoom:25%;" />
 
 
 

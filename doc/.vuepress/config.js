@@ -39,6 +39,10 @@ module.exports = {
                                 path:'/开始/安装'
                             },
                             {
+                                title:'许可',
+                                path:'/开始/许可'
+                            },
+                            {
                                 title:'配置',
                                 path:'/开始/配置'
                             },
