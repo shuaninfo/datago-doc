@@ -2,7 +2,7 @@
 
 
 
-![data-go](./img/data-go.png)
+<img src="./img/data-go.png" alt="data-go" style="zoom:30%;" />
 
 
 
