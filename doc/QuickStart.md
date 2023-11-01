@@ -20,7 +20,7 @@ DataGo支持连接多种类型的数据源（MySQL、Oracle、SQL Server、Postg
 **请部署好你喜欢的数据库，并确保DataGo可以访问。**
 
 ### DataGo
-请前往 https://shuaninfo.github.io/datagodoc/%E5%BC%80%E5%A7%8B/%E5%AE%89%E8%A3%85.html 下载DataGo，并参考文档进行安装部署和启动
+请前往 https://www.datago.cc/ 下载DataGo，并参考文档进行安装部署和启动
 
 启动后通过Web浏览器访问应用 http://应用ip地址:9001
 
